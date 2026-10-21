@@ -1,0 +1,7 @@
+{
+  "name": "KisanSetu - Mandi RTGS & Farmer Payment System",
+  "description": "Multi-firm centralized farmer bank verification, passbook OCR, RTGS/NEFT payment manager, and audit log software for grain trading businesses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
